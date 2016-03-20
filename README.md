@@ -1,5 +1,5 @@
 # #develop (short for SharpDevelop) 
-
+We cloned this from the original site to be able to modify the core. gnuCOBOLedt will be for the most part an addin with the exception of mods requiered to allow to use gnuCOBOL as a compiler. We want to join the c# compiler to be able to modify the c# output from the gnuCOBOL compiler as well. SharpDeveloper will also allow for a ui gui as well. From this point on we will refur to sdev for the SharpDeveloper portion and gcob for the gnuCOBOL part.
 ##Overview
 
  #develop is a free Integrated Development Environment
